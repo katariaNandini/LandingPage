@@ -19,21 +19,24 @@ const Download = () => {
 					desc='Windows 10/8/7/XP'
 					imgURL='/img/logo-windows.svg'
 					btnContent='Fork the template'
-					btnURL='https://github.com/katariaNandini'
+					btnURL='https://github.com/katariaNandini/LandingPage
+'
 				/>
 				<Card
 					title='Use on Apple'
 					desc='macOS/ OS X'
 					imgURL='/img/logo-apple.svg'
 					btnContent='Fork the template'
-					btnURL='https://github.com/katariaNandini'
+					btnURL='https://github.com/katariaNandini/LandingPage
+'
 				/>
 				<Card
 					title='Use on Linux'
 					desc='Ubuntu/ Debian'
 					imgURL='/img/logo-linux.svg'
 					btnContent='Fork the template'
-					btnURL='https://github.com/katariaNandini'
+					btnURL='https://github.com/katariaNandini/LandingPage
+'
 				/>
 			</div>
 		</section>
